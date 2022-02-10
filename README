@@ -7,6 +7,8 @@ To compile project, use command "make". In order to to run project use command "
 NOTE: Program seems to segmentation fault if an argument for niters is not given or if more than  one argument option is given.
 
 Apologies, forgot I was supposed to be using Version Control and so many versions are not there.
+Version Control accomplished using Git and GitHub. Project is located under username "dmmv2r" and is named "OSmcdonoug.1".
+
 Project is incomplete as troubles arose and I was not able to get past them.
 
 1. Sometimes processes terminate out of order and sometimes orphan processes are created and adopted by init, but not all the time.
