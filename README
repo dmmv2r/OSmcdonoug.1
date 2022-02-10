@@ -1,0 +1,19 @@
+Name: Donovan McDonough
+Date: 2/9/2022
+Project 1
+
+To compile project, use command "make". In order to to run project use command "./chain" followed by the list of arguments. Help with running the project can be found by using command "./chain -h".
+
+NOTE: Program seems to segmentation fault if an argument for niters is not given or if more than  one argument option is given.
+
+Apologies, forgot I was supposed to be using Version Control and so many versions are not there.
+Project is incomplete as troubles arose and I was not able to get past them.
+
+1. Sometimes processes terminate out of order and sometimes orphan processes are created and adopted by init, but not all the time.
+2. 
+3. 
+4. The same thing occurs in step 1 however all of the process information is outputted at once, instead of one at a time.
+5. Again, all of the processes are outputted together and if I add more iterations, they are all outputted at the same time but several times.
+6. By adding the wait function, each process information is outputted the specified number of iterations times, then it moves on to the next processes, starting from the last process created and mvoing towards the very first one.
+7. This resulted in a flip of the last step where it worked from the first process created to the last. The outputs get messed up towards the end sometimes but it is possible to tell which process generated what output.
+8. 
